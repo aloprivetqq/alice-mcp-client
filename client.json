@@ -1,0 +1,15 @@
+{
+  "client_id": "https://aloprivetqq.github.io/alice-mcp-client/client.json",
+  "client_name": "Personal Alice MCP Client",
+  "redirect_uris": [
+    "https://alice.yandex.ru/plugins/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
